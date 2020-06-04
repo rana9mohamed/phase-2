@@ -1,2 +1,2 @@
-# phase-2
-pharmacy phase 2
+# Sprint-2
+pharmacy sprint 2
